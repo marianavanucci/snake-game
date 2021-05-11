@@ -1,0 +1,12 @@
+TAG CANVAS (Tela de Pintura)
+============================
+
+CANVAS é um container para graficos usando o javascript pode desenhar gráficos na tela
+
+*Objetos no canvas podem ser mover
+*Canvas responde a eventos Javascript
+*Canvas responde a qualquer user action (key, mouse)
+*Usada para jogos
+
+
+<canvas id="myCanvas" width="200" height="100"></canvas>

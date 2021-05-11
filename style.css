@@ -1,0 +1,14 @@
+.myCanvas {
+    border: 5px solid black;
+}
+
+body {
+    height: 95 vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(12, 97, 12);
+    font-family: Arial, Helvetica, sans-serif;
+}
